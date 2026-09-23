@@ -17,4 +17,6 @@ Here are some ideas to get you started:
  🌱 I’m currently learning Machine Learning 
  
  💬 Ask me about AI And Data Structure 
+
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=komalgaikwad2011&theme=default)](https://git.io/streak-stats)
