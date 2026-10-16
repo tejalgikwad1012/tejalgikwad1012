@@ -18,5 +18,23 @@ Here are some ideas to get you started:
  
  💬 Ask me about AI And Data Structure 
 
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tejalgikwad1012&theme=default&timezone=Asia/Kolkata&v=1)](https://git.io/streak-stats)
+
+### GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejalgikwad1012&layout=compact&theme=default" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tejalgikwad1012&show_icons=true&theme=default" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejalgikwad1012&theme=default" />
+      </td>
+    </tr>
+  </table>
+</div>
